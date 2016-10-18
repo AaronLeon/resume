@@ -1,0 +1,21 @@
+@page {
+    size:8.5in 11in;
+    margin-left: 1cm;
+    margin-right: .25;
+}
+
+*:not(i) {
+    font-family: 'Roboto' !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat';
+}
+
+p {
+    font-size: 9pt;
+}
+
+.contact {
+    font-size: 10pt;
+}
