@@ -1,7 +1,9 @@
 @page {
     size:8.5in 11in;
-    margin-left: 1cm;
-    margin-right: .25;
+    margin-top: 1.25cm;
+    margin-left: 0.75cm;
+    margin-right: 0cm;
+    margin-bottom: 1.25cm;;
 }
 
 *:not(i) {
@@ -10,10 +12,15 @@
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Montserrat';
+    margin: 0;
+}
+
+h6 {
+    font-size: 8pt;
 }
 
 p {
-    font-size: 9pt;
+    font-size: 8pt;
 }
 
 .contact {
