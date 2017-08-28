@@ -1,0 +1,95 @@
+Aaron Leon
+aleon18@u.northwestern.edu
+(630)-788-2688
+linkedin.com/in/aaronleon1
+github.com/aaronleon
+
+
+Work Experience
+
+Cofounder at Womentum
+Boston, MA, Dec. 2015-Present
+Womentum (womentum.io) is a 501(c)(3) non-profit that allows anyone around the world to donate to women entrepreneurs in developing countries. As the technical cofounder, I architected and implemented a donation platform that has raised over $10,000 to fund 20+ women-run microbusinesses in 6 countries.
+Technologies Used: Javascript, Node.js, AngularJS 1.4x, MongoDB
+
+SWE Intern at Jump Trading
+Chicago, IL, Jun. 2017 - Aug. 2017
+Jump Trading LLC. is a proprietary trading firm that focuses on algorithmic trading. At Jump Trading, I implemented low-latency web apps to replace legacy desktop apps.
+Technologies Used: Python, Javascript, C++, QT, Tornado, Canvas
+
+EECS 339 Teaching Assistant at Northwestern University
+Evanston, IL, December. 2016 - Jun. 2017
+EECS 339 is an undergraduate/graduate course in Database Management Systems that introduces students to SQL/MySQL and the internals of modern relational databases. As a TA, I hosted office hours, graded exams and projects, and gave supplementary lectures.
+Technologies Used: SQL, MySQL
+
+Developer at MADStudio
+Evanston, IL, Sep. 2016 - Jun. 2017
+The Media and Design Studio (MADStudio) provides in-house technology solutions for Weinberg School of Liberal Arts and Sciences at Northwestern University. At MADStudio, I developed an interactive archiving application that is used by the Freshman Art History Seminar curriculum.
+Technologies Used: PHP, MAMP, Omeka, CartoDB
+
+Software Engineering Intern at Uptake
+Chicago, IL, Jun. 2016 - Sep. 2016
+Uptake is a predictive analytics company that creates custom data science solutions for industries like rail and construction. At Uptake, I restructured the deployment infrastructure of the core data science engines to increase modularity and scaleability.
+Technologies Used: Java, Scala, AngularJS, Bash, Docker, Marathon, Mesos
+
+Research Assistant at FUSE
+Evanston, IL, Jun. 2015 - Jun. 2016
+FUSE is a research team that studies and promotes STEM education. At FUSE, I codesigned "How to Train Your Robot", an educational challenge used to teach programming and robotics to 10,000+ middle and high school students from 170+ sites. I also developed internal data visualization tools and extended the open source graphical programming interface Ardublock.
+Technologies Used: MATLAB, Java, Drupal, Arduino
+
+
+Project Experience
+
+Empathic Systems
+Evanston, IL, Mar. 2015 - Dec. 2016
+At Empathic Systems, I prototyped tinylab, a modular biometric smart watch intended for use in non-laboratory setting research. tinylab was designed to serve as a more cost-efficient and customized solution for wearable data collection.
+Technologies Used: Arduino, RFduino, C++, Solidworks, 3D Printing
+
+
+Education
+
+Northwestern University
+Evanston IL, 2014-2017
+Bachelor of Science in Computer Science, GPA: 3.63
+Coursework: Machine Learning, Statistical Language
+Modeling, Artificial Intelligence, Concurrent
+Programming in Rust, Human Computer Interactions,
+Database Management Systems, AGILE Project
+Management
+
+
+Extracurriculars
+
+Director of EPIC Tech Team
+I am the Director for the Tech Team of EPIC,
+Northwestern's premiere student entrepreneurship
+group. I mentor and lead a team of 10 student
+developers to architect and implement client projects.
+
+Other Extracurriculars
+Asian American Intervarsity, Website Chair at Sigma Nu
+Formerly: Chair of Alumni Relations of AIChE, ISBE Tech,
+Alpha Phi Omega
+
+
+Awards
+
+2nd Place, Babson B.E.T.A. 2017
+Finalist, Mass Innovation Night 2016
+Finalist, Wildhacks 2015
+1st Place, OpenBuild:Lacuna 2015
+2nd Place, BattleHack Chicago 2015
+
+
+Technologies
+
+General: Javascript, Java, Python, C++, Rust, Bash
+Web Development: Javascript, Node.js, AngularJS
+Data Analysis: Python (NumPy, SciPy), MATLAB, Scala
+Mobile Apps: Ionic, Cordova
+
+
+Languages
+
+English (Native), Cantonese (Native), Spanish
+(Proficient), Mandarin (Basic)
